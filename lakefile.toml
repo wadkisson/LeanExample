@@ -1,4 +1,5 @@
 [package]
 name = "simple_proof"
 version = "0.1"
-lean_version = "leanprover/lean4:latest"
+lean_version = "leanprover/lean4:v4.8.0
+"
